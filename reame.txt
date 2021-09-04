@@ -1,0 +1,13 @@
+The Directiry containts:
+
+1.- Folder to Script Database Movie SqlDabase
+2.- CodeSample.Entities, Project Class Librart .NEt Core, when the project has the objects to Dabase useing Entity FrameWork
+3.- WebApiMovie, Project Web Core, Web API to extract data to Sql Database
+4.- Codeample, Web Appplication Front End using React
+
+
+
+
+
+
+
